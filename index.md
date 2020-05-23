@@ -8,8 +8,8 @@ permalink: /
  
 ## Supplementary Material
 * [PDF](https://maildluteducn-my.sharepoint.com/personal/zengyu_mail_dlut_edu_cn/Documents/supplementary-trans.pdf?&originalPath=aHR0cHM6Ly9tYWlsZGx1dGVkdWNuLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL3plbmd5dV9tYWlsX2RsdXRfZWR1X2NuL0ViUXZuSE1HbG1GSW9TMnFtTm53T2R3Qkcza0FjbGREdHR3NGtzaHVYYWxBTFE_cnRpbWU9QkRIa3pmUC0xMGc)
-* [Additonal visual comparison](https://huchuanlu.github.io/iic/vis)
-* [Quantitative comparison with more methods](https://huchuanlu.github.io/iic/qcmp)
+* [Additonal visual comparison](https://zengxianyu.github.io/iic/vis)
+* [Quantitative comparison with more methods](https://zengxianyu.github.io/iic/qcmp)
 
 ## Web APP
 [http://47.57.135.203:2333/](http://47.57.135.203:2333/)
