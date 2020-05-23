@@ -5,20 +5,16 @@ permalink: /
 ---
 
 # High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
- 
-## Supplementary Material
-* [PDF](https://maildluteducn-my.sharepoint.com/personal/zengyu_mail_dlut_edu_cn/Documents/supplementary-trans.pdf?&originalPath=aHR0cHM6Ly9tYWlsZGx1dGVkdWNuLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL3plbmd5dV9tYWlsX2RsdXRfZWR1X2NuL0ViUXZuSE1HbG1GSW9TMnFtTm53T2R3Qkcza0FjbGREdHR3NGtzaHVYYWxBTFE_cnRpbWU9QkRIa3pmUC0xMGc)
-* [Additonal visual comparison](https://zengxianyu.github.io/iic/vis)
-* [Quantitative comparison with more methods](https://zengxianyu.github.io/iic/qcmp)
+[Results](#synthetic-samples) | [Web App](#web-app) | [Paper]() | [Supplementary Material](#supplementary-material)
 
 ## Web APP
 [http://47.57.135.203:2333/](http://47.57.135.203:2333/)
 
-<img src="webpage.png" width="400">
+Usage:
+ * <img src="webpage.png" width="360">
 
 ## High-resolution results (≥1024)
- * [Synthetic samples](#synthetic-samples)
- * [Removing real objects](#removing-real-objects)
+[Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
 
 ### Synthetic samples
 ![8wlymn.jpg](https://s1.ax1x.com/2020/03/18/8wlymn.jpg)
@@ -45,3 +41,8 @@ permalink: /
 ![8wQhqI.jpg](https://s1.ax1x.com/2020/03/18/8wQhqI.jpg)
 ![8wQWMd.jpg](https://s1.ax1x.com/2020/03/18/8wQWMd.jpg)
 ![8wlELR.jpg](https://s1.ax1x.com/2020/03/18/8wlELR.jpg)
+ 
+## Supplementary Material
+* [PDF](https://maildluteducn-my.sharepoint.com/personal/zengyu_mail_dlut_edu_cn/Documents/supplementary-trans.pdf?&originalPath=aHR0cHM6Ly9tYWlsZGx1dGVkdWNuLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL3plbmd5dV9tYWlsX2RsdXRfZWR1X2NuL0ViUXZuSE1HbG1GSW9TMnFtTm53T2R3Qkcza0FjbGREdHR3NGtzaHVYYWxBTFE_cnRpbWU9QkRIa3pmUC0xMGc)
+* [Additonal visual comparison](https://zengxianyu.github.io/iic/vis)
+* [Quantitative comparison with more methods](https://zengxianyu.github.io/iic/qcmp)
