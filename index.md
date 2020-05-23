@@ -6,15 +6,14 @@ permalink: /
 
 # High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
 
-* [HR results](#high-resolution-inpainting-results-1024)
-  * [Synthetic samples](#synthetic-samples)
-  * [Removing real objects](#removing-real-objects)
-* [Additonal visual comparison](https://huchuanlu.github.io/iic/vis)
-* [Quantitative comparison with more methods](https://huchuanlu.github.io/iic/qcmp)
-* [Implementation details](https://maildluteducn-my.sharepoint.com/:b:/g/personal/zengyu_mail_dlut_edu_cn/Edn41Z2pSJxCvF_16khtqhABQ7hbMOeo_rXpAcTw0dwAyQ?download=1)
-* [Code (coming soon)]()
+# Results
+ * [Synthetic samples](#synthetic-samples)
+ * [Removing real objects](#removing-real-objects)
 
-## High-resolution inpainting results (≥1024)
+# Web APP
+http://47.57.135.203:2333/
+
+## High-resolution results (≥1024)
 ### Synthetic samples
 ![8wlymn.jpg](https://s1.ax1x.com/2020/03/18/8wlymn.jpg)
 ![8wl0Sg.jpg](https://s1.ax1x.com/2020/03/18/8wl0Sg.jpg)
