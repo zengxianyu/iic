@@ -14,7 +14,7 @@ permalink: /
 ## Web APP
 [http://47.57.135.203:2333/](http://47.57.135.203:2333/)
 
-![](webpage.png)
+<img src="webpage.png" width="400">
 
 ## High-resolution results (≥1024)
  * [Synthetic samples](#synthetic-samples)
