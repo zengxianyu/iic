@@ -11,7 +11,7 @@ permalink: /
  * [Removing real objects](#removing-real-objects)
 
 # Web APP
-http://47.57.135.203:2333/
+[http://47.57.135.203:2333/](http://47.57.135.203:2333/)
 
 ## High-resolution results (≥1024)
 ### Synthetic samples
