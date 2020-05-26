@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling
-[Results](#synthetic-samples) | [Web App](#web-app) | [Paper]() | [Supplementary Material](#supplementary-material)
+[Results](#synthetic-samples) | [Web App](#web-app) | [Paper](https://arxiv.org/pdf/2005.11742.pdf) | [Supplementary Material](#supplementary-material)
 
 ## High-resolution results (≥1024)
 [Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
