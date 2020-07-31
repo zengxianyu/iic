@@ -1,0 +1,7 @@
+@inproceedings{zeng2020high,
+  title={High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling},
+  author={Zeng, Yu and Lin, Zhe and Yang, Jimei and Zhang, Jianming and  Shechtman, Eli and Lu, Huchuan},
+  booktitle={European Conference on Computer Vision},
+  year={2020},
+  organization={Springer}
+}
