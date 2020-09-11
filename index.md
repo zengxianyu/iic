@@ -73,7 +73,7 @@ r = requests.post('http://47.57.135.203:2333/api', json=data)
 [download python example](https://maildluteducn-my.sharepoint.com/:u:/g/personal/zengyu_mail_dlut_edu_cn/ETN_-k4fwkBLtcsy2qY8OFIBWdjHU27cnO7sCjfRrmC3VA?download=1)
  
 ## Supplementary Material
-* [PDF](https://maildluteducn-my.sharepoint.com/personal/zengyu_mail_dlut_edu_cn/Documents/supplementary-trans.pdf?&originalPath=aHR0cHM6Ly9tYWlsZGx1dGVkdWNuLW15LnNoYXJlcG9pbnQuY29tLzpiOi9nL3BlcnNvbmFsL3plbmd5dV9tYWlsX2RsdXRfZWR1X2NuL0ViUXZuSE1HbG1GSW9TMnFtTm53T2R3Qkcza0FjbGREdHR3NGtzaHVYYWxBTFE_cnRpbWU9QkRIa3pmUC0xMGc)
+* [PDF](https://maildluteducn-my.sharepoint.com/:b:/g/personal/zengyu_mail_dlut_edu_cn/EbQvnHMGlmFIoS2qmNnwOdwBgpIrTS26NNrFy8JB9jeS_Q?e=Vcy6mj)
 
 ## Comparison
 * [Visual comparison](https://github.com/zengxianyu/Inpaint_Comparison/blob/master/README.md) of ours (ProFill and +Upsample) with [HiFill](https://arxiv.org/abs/2005.09704)
