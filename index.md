@@ -50,6 +50,12 @@ Yu Zeng$^1$, Zhe Lin$^2$, Jimei Yang$^2$, Jianming Zhang$^2$, Eli Shechtman$^2$,
 Usage:
 <img src="webpage.png" width="460">
 
+Effect of specifying the include or avoid region:
+
+<img src="https://s1.ax1x.com/2020/09/11/wtJzTK.png">
+
+
+
 ## API
 http://47.57.135.203:2333/api
 
