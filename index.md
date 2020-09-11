@@ -52,7 +52,7 @@ Usage:
 
 Effect of specifying the include or avoid region:
 
-<img src="https://s1.ax1x.com/2020/09/11/wtJzTK.png">
+<img src="https://s1.ax1x.com/2020/09/11/wtJzTK.png" width="640">
 
 
 
