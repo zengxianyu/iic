@@ -4,7 +4,7 @@ title: "iic"
 permalink: /
 ---
 
-# High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling, ECCV 2020
+# ProFill: High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling, ECCV 2020
 
 Yu Zeng$^1$, Zhe Lin$^2$, Jimei Yang$^2$, Jianming Zhang$^2$, Eli Shechtman$^2$, Huchuan Lu$^1$
 
