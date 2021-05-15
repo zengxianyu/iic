@@ -17,6 +17,8 @@ Yu Zeng$^1$, Zhe Lin$^2$, Jimei Yang$^2$, Jianming Zhang$^2$, Eli Shechtman$^2$,
 ## High-resolution results (≥1024)
 [Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
 
+This API is for research purposes only and cannot be used for commertial purposes in any form
+
 ### Synthetic samples
 ![8wlymn.jpg](https://s1.ax1x.com/2020/03/18/8wlymn.jpg)
 ![8wl0Sg.jpg](https://s1.ax1x.com/2020/03/18/8wl0Sg.jpg)
@@ -58,6 +60,8 @@ Effect of specifying the include or avoid region:
 
 ## API
 http://47.57.135.203:2333/api
+
+This API is for research purposes only and cannot be used for commertial purposes in any form
 
 ```python
 mode_img = img.mode
