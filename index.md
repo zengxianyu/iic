@@ -12,7 +12,7 @@ Yu Zeng$^1$, Zhe Lin$^2$, Jimei Yang$^2$, Jianming Zhang$^2$, Eli Shechtman$^2$,
 
 2 Adobe Research
 
-[Results](#synthetic-samples) | [Web App](#web-app) | [REST API](#api) | [Paper](https://arxiv.org/pdf/2005.11742.pdf) | [Supplementary Material](#supplementary-material) | [Comparison](#comparison)
+[Results](#synthetic-samples) | [Web App](#web-app) | [REST API](#api) | [Paper](https://arxiv.org/pdf/2005.11742.pdf) | [Supplementary Material](#supplementary-material) | [Comparison](#comparison) | [Object masks](#object-masks) 
 
 ## High-resolution results (≥1024)
 [Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
@@ -81,6 +81,13 @@ r = requests.post('http://47.57.135.203:2333/api', json=data)
 ```
 
 [download python example](https://maildluteducn-my.sharepoint.com/:u:/g/personal/zengyu_mail_dlut_edu_cn/ETN_-k4fwkBLtcsy2qY8OFIBWdjHU27cnO7sCjfRrmC3VA?download=1)
+
+## Object masks
+```
+wget https://maildluteducn-my.sharepoint.com/:u:/g/personal/zengyu_mail_dlut_edu_cn/EUcTzYoX5LhFkBCjG62E5wwBzru1eM4PhwmRNGmo08pH5Q?download=1
+mv EUcTzYoX5LhFkBCjG62E5wwBzru1eM4PhwmRNGmo08pH5Q?download=1 object_masks.zip
+unzip object_masks.zip
+```
  
 ## Supplementary Material
 * [PDF](https://maildluteducn-my.sharepoint.com/:b:/g/personal/zengyu_mail_dlut_edu_cn/EbQvnHMGlmFIoS2qmNnwOdwBgpIrTS26NNrFy8JB9jeS_Q?e=Vcy6mj)
