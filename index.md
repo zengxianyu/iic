@@ -14,10 +14,11 @@ Yu Zeng$^1$, Zhe Lin$^2$, Jimei Yang$^2$, Jianming Zhang$^2$, Eli Shechtman$^2$,
 
 [Results](#synthetic-samples) | [Web App](#web-app) | [REST API](#api) | [Paper](https://arxiv.org/pdf/2005.11742.pdf) | [Supplementary Material](#supplementary-material) | [Comparison](#comparison) | [Object masks](#object-masks) 
 
-## High-resolution results (≥1024)
-[Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
 
 This API is for research purposes only and cannot be used for commertial purposes in any form
+
+## High-resolution results (≥1024)
+[Synthetic samples](#synthetic-samples) | [Removing real objects](#removing-real-objects)
 
 ### Synthetic samples
 ![8wlymn.jpg](https://s1.ax1x.com/2020/03/18/8wlymn.jpg)
